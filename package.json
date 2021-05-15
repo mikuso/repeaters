@@ -1,0 +1,21 @@
+{
+  "name": "@flamescape/repeaters",
+  "version": "1.0.0",
+  "description": "A utility to create tracked, recurring, interruptible timed routines",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikuso/repeaters.git"
+  },
+  "author": "Gareth Hughes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikuso/repeaters/issues"
+  },
+  "homepage": "https://github.com/mikuso/repeaters#readme",
+  "keywords": [],
+  "license": "ISC"
+}
